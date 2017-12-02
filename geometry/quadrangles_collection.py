@@ -1,5 +1,5 @@
 from geometry.comparable import Comparable
-
+# comment for git
 class QuadranglesCollection(Comparable):
     def __init__(self, listOfQuadrangles):
         self._listOfQuadrangles = listOfQuadrangles
